@@ -1,6 +1,6 @@
 'use stict';
 
-export default class Queue{
+class Queue{
     #item= [];
     constructor(val){
         if(val)

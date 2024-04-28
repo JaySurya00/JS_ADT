@@ -1,6 +1,6 @@
 'use strict';
 
-export default class Stack {
+class Stack {
     #item=[];
     constructor(val)
     {

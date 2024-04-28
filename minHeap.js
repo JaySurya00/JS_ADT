@@ -113,7 +113,3 @@ class minHeap{
     }
 }
 
-
-const pq= new minHeap(4);
-pq.push(1);
-console.log(pq.peek());
